@@ -1,3 +1,8 @@
+#' ---
+#' author: "Brian Costello"
+#' 
+
+
 ## how jenny might do this in a first exploration
 ## purposely leaving a few things to change later!
 
